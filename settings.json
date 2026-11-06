@@ -1,5 +1,5 @@
 {
- "show": true,
+ "show": false,
  "aud": "client",
  "mode": "fixed",
  "value": 6000
